@@ -1,18 +1,22 @@
-🚀 Sohil Shingala
+## **Sohil Shingala**
 
-💼 Full-Stack Web Developer (Laravel + Vue)
-🏠 India
-📧 sohils413@email.com
+💼 Full-Stack Web Developer (Laravel + Vue)<br>
+🏠 Rajkot, Gujarat, India<br>
+📧 sohils413@email.com<br>
 
+<br>
 
 👋 **About Me**
 
-    - Full-stack developer with 10+ years of experience
+    - Full-stack developer
+    - Coding since 2015
     - Expert in Laravel, PHP, MySQL & Vue.js
     - Strong in architecture planning, API development & system optimization
     - Experienced in CRM, SaaS, e-commerce & multi-tenant systems
     - Passionate about writing clean, scalable & secure code
     - Happy to help with Laravel, APIs, Databases, Vue.js or System Design
+
+<br>
 
 🧭 **Coding Ethics**
 
@@ -22,38 +26,48 @@
     - Optimize SQL queries & backend performance
     - Build scalable backend architectures
 
+<br>
+
 🛠️ **Proficient In**
 
-    <img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js   
-    <img height="20" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> JavaScript   
-    <img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> MySQL   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML5   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3
+<img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js   
+<img height="20" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> JavaScript   
+<img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> MySQL   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML5   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3
+
+<br>
 
 📚 **Familiar With**
 
-    <img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> Docker   
-    <img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"> Nginx   
-    <img height="20" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"> Postman   
-    <img height="20" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg"> AWS / VPS   
-    <img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> Git   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"> Composer
+<img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> Docker   
+<img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"> Nginx   
+<img height="20" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"> Postman   
+<img height="20" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg"> AWS / VPS   
+<img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> Git   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"> Composer
+
+<br>
 
 🔍 **Currently Exploring**
 
-    <img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> Node.js   
-    <img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> Vue 3 + Quasar   
-    <img height="20" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"> Redis Optimization
+<img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> Node.js   
+<img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> Vue 3 + Quasar   
+<img height="20" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"> Redis Optimization
+
+<br>
 
 🔧 **Actively Working In**
 
-    <img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP   
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js
+<img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP   
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js
+
+<br>
 
 ❌ **No More Active In**
 
-    <img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"> jQuery   
-    <img height="20" src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg"> CodeIgniter
+<img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"> jQuery   
+<img height="20" src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg"> CodeIgniter
