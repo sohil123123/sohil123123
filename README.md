@@ -44,8 +44,8 @@
 
 <img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> Docker &nbsp;&nbsp;
 <img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"> Nginx &nbsp;&nbsp;
-<img height="20" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"> Postman &nbsp;&nbsp;
-<img height="20" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg"> AWS / VPS &nbsp;&nbsp;
+<img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> Postman &nbsp;&nbsp;
+<img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"> AWS / VPS &nbsp;&nbsp;
 <img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> Git &nbsp;&nbsp;
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"> Composer &nbsp;&nbsp;
 
@@ -64,10 +64,3 @@
 <img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel &nbsp;&nbsp;
 <img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP &nbsp;&nbsp;
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js &nbsp;&nbsp;
-
-<br>
-
-❌ **No More Active In**
-
-<img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"> jQuery &nbsp;&nbsp;  
-<img height="20" src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg"> CodeIgniter &nbsp;&nbsp;
