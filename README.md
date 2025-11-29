@@ -56,11 +56,3 @@
 <img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> Node.js &nbsp;&nbsp;
 <img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> Vue 3 + Quasar &nbsp;&nbsp;
 <img height="20" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"> Redis Optimization &nbsp;&nbsp;
-
-<br>
-
-🔧 **Actively Working In**
-
-<img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> Laravel &nbsp;&nbsp;
-<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP &nbsp;&nbsp;
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js &nbsp;&nbsp;
